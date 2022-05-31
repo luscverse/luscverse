@@ -1,9 +1,9 @@
 ## Lucas Campos
 
-- 🔭 Hoje ainda <b>não</b> trabalho com programação.
-- 🌱 Estou estudando <b>front-end</b>.
-- 😄 <b>Pronomes:</b> ele/dele
-- ⚡ <b>Curiosidades:</b> Aprendiz por natureza e, nas horas vagas, UX designer e escritor de RPG.
+- 🔭 Today I still <b>not</b> work with programming.
+- 🌱 I'm studying <b>front-end</b>.
+- 😄 <b>Pronouns:</b> He/Him
+- ⚡ <b>Curiosities:</b> Apprentice by nature and, in his spare time, UX designer and RPG writer.
 
 ## Overview
 
@@ -19,7 +19,7 @@
   <img align="center" alt="Lusc-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </div>
   
-  ## Contatos
+  ## Contacts
   
   <div> 
    <a href="https://instagram.com/luscverse" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
