@@ -1,9 +1,9 @@
 ## Lucas Campos
 
-- 🔭 Today I still <b>not</b> work with programming.
-- 🌱 I'm studying <b>front-end</b>.
+- 🔭 <b>Not</b> working with programming yet. I currently work as a <b>UX Designer</b>.
+- 🌱 I'm studying <b>full-stack</b>.
 - 😄 <b>Pronouns:</b> He/Him
-- ⚡ <b>Curiosities:</b> Apprentice by nature and, in his spare time, UX designer and RPG writer.
+- ⚡ <b>Curiosities:</b> Apprentice by nature and, in my free time, and Dungeon Master/RPG writer.
 
 ## Overview
 
