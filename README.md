@@ -5,14 +5,8 @@
 - 😄 <b>Pronouns:</b> He/Him
 - ⚡ <b>Curiosities:</b> Apprentice by nature and, in my free time, and Dungeon Master/RPG writer.
 
-## Overview
+## Programming Skills
 
-<div align="center">
-  <a href="https://github.com/luscverse">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=luscverse&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luscverse&layout=compact&langs_count=7&theme=light"/>
-</div>
-  
 <div style="display: inline_block" align="center"><br>
           
   <img align="center" alt="Lusc-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
