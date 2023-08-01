@@ -20,7 +20,7 @@
   <br><br>
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luscverse)](https://git.io/streak-stats)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luscverse&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luscverse)
   
 </div>
   
