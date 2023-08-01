@@ -20,7 +20,8 @@
   <br><br>
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luscverse)](https://git.io/streak-stats)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=swift)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=transparent)
   
 </div>
   
