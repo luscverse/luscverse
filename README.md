@@ -16,7 +16,10 @@
   <img align="center" alt="Lusc-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lusc-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lusc-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  </div>
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luscverse)](https://git.io/streak-stats)
+  
+</div>
   
   ## Contacts
   
