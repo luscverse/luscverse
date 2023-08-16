@@ -1,7 +1,7 @@
 ## Lucas Campos
 
 - 🔭 <b>Not</b> working with programming yet. I currently work as a <b>UX Designer</b>.
-- 🌱 I'm studying <b>full-stack</b>.
+- 🌱 I'm studying <b>full-stack</b> (HTML, CSS, JavaScript e Java).
 - 😄 <b>Pronouns:</b> He/Him
 - ⚡ <b>Curiosities:</b> Apprentice by nature and, in my free time, and Dungeon Master/RPG writer.
 
